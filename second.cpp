@@ -1,1 +1,6 @@
-hiiii
+#include<iostream>
+using namespace std;
+
+int main(){
+    cout<<"nikhil mandhare";
+}
